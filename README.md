@@ -3,4 +3,6 @@
 
 [Результаты прогона автотестов в Postman ](https://github.com/margaritakolomytceva/api/files/15442714/DemoShopping.postman_test_run.json)
 
+[Тестирование SOAP-сервиса в Postman](https://www.postman.com/margaritakolomytceva/workspace/my-workspace/collection/35071750-b3aae7db-fae9-4422-9934-ea56d3578ca6?action=share&creator=35071750)
+
 
