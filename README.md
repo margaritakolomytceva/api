@@ -5,4 +5,4 @@
 
 [Тестирование SOAP-сервиса в Postman](https://www.postman.com/margaritakolomytceva/workspace/my-workspace/collection/35071750-b3aae7db-fae9-4422-9934-ea56d3578ca6?action=share&creator=35071750)
 
-
+[Тест-кейсы по API](https://github.com/margaritakolomytceva/api/files/15461675/G7-2024-05-27.1.pdf)
